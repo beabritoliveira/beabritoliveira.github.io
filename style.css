@@ -1,0 +1,30 @@
+body{
+  background-color: floralwhite;
+  text-align: justify;
+}
+.c2{
+  text-align:center;
+  border-width: thick;
+  border-style: dotted;
+  border-color: #ffffff ;
+  font-family: Apple Chancery;
+  font-style: italic;
+  line-height: 0.7
+}
+h1{
+  font-size: 38px;
+}
+p{
+  text-indent: 2em;
+  line-height: 0.5
+}
+h3{
+  font-size: 20px;
+  line-height: 0.5;
+}
+h4{
+  font-style: italic;
+  font-size: 18px;
+  line-height: 0.2;
+  text-indent: 1em;
+}
